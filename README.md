@@ -1,6 +1,6 @@
 # Hiring-IT-Developers
 [TẬP ĐOÀN VTI] - Tuyển dụng các vị trí Developer – Java/Nodejs/Flutter/PHP/AI/BrSE/.NET 
-Tập đoàn VTI hiện đang mở rộng đội ngũ và tìm kiếm những ứng viên tài năng cho các vị trí sau:
+
 
 .NET Developer - Middle
 AI Developer
@@ -18,6 +18,7 @@ Quyền lợi
 ✔️ Hoạt động teambuilding, du lịch, các câu lạc bộ thể thao và giải trí đa dạng
 ✔️ Môi trường làm việc chuyên nghiệp, lộ trình thăng tiến rõ ràng
 ⏰ Thời gian làm việc: 8h30 - 17h30 (Thứ Hai - Thứ Sáu)
+
 🏢Địa điểm làm việc: Mễ Trì Hạ, Nam Từ Liêm, Hà Nội
 📩Ứng viên quan tâm vui lòng ib mình để nhận JD chi tiết
 ______________________________________________________
