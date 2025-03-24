@@ -1,0 +1,8 @@
+name: Tập đoàn VTI tuyển dụng các vị trí Developer 
+on: [push]
+jobs: AI, Java Deveoper, PHP Developer, Nodejs Developer, Flutter developer, BrSE, .NET developer 
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send update to Slack
+        run: curl -X POST -H 'Content-type: application/json' --data '{"text":"[VTI Group] có job mới! Xem ngay: github.com/company/hireing"}' https://hooks.slack.com/services/YOUR_SLACK_WEBHOOK
